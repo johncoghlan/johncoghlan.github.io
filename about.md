@@ -32,7 +32,7 @@ permalink: /about/
   <li>
     <h2 id="get-in-touch">Get in Touch</h2>
     <ul>
-      <li><a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#106;&#099;&#111;&#103;&#104;&#108;&#097;&#110;&#064;&#103;&#105;&#108;&#116;&#046;&#099;&#111;&#109;">Email me</a></li>
+      <li><a href="mailto:jcoghlan@grubhub.com">Email me</a></li>
       <li><a href="http://twitter.com/john_cogs">Follow On Twitter</a></li>
     </ul>
   </li>
