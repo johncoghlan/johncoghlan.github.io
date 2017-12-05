@@ -15,6 +15,7 @@ permalink: /about/
   <li>
     <h2 id="where-ive-been">Work</h2>
     <ul>
+      <li><a href="https://medium.com/grubhub-bytes">Grubhub</a></li>
       <li><a href="http://tech.gilt.com">HBC Digital // Gilt</a></li>
       <li><a href="https://twitter.com/dumbostartuplab">DUMBO Startup Lab</a></li>
       <li><a href="https://www.flickr.com/photos/unitedwaynyc/albums/72157625136096119/page4">United Way of NYC</a></li>
