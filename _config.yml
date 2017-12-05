@@ -6,7 +6,7 @@
 name: Hi, I'm John Coghlan
 
 # Short bio or description (displayed in the header)
-description: People Operations at HBC Digital 
+description: Tech Evangelism at Grubhub
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://imgur.com/8H2REuY.jpg
@@ -17,7 +17,7 @@ avatar: http://imgur.com/8H2REuY.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: jcoghlan@gilt.com
+  email: jcoghlan@grubhub.com
   facebook: jcogs1
   flickr:
   github: johncoghlan
