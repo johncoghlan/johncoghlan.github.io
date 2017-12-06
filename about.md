@@ -9,7 +9,7 @@ permalink: /about/
   <li>
     <h2 id="what-im-working-on">Current Projects</h2>
     <ul>
-      <li><a href="https://johncoghlan.github.io/evangelism/">Beginner’s Guide to Evangelism</a></li>
+      <li><a href="http://medium.com/grubhub-bytes">Grubhub Bytes</a></li>
     </ul>
   </li>
   <li>
