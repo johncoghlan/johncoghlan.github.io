@@ -1,7 +1,7 @@
-***
+---
 layout: post
 title: The Evangelist's Reading List
-***
+---
 
 <div style="text-align:center"><img src ="https://typeset-beta.imgix.net/rehost%2F2016%2F9%2F13%2F9b64218a-939c-485d-89c6-ae247784ddc3.jpg" /></div>
 
