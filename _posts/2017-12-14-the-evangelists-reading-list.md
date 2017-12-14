@@ -3,7 +3,7 @@ layout: post
 title: The Evangelist's Reading List
 ***
 
-Tech evangelism or developer advocacy or whatever you choose to call it is booming. A quick search on LinkedIn for a three of the most popular titles for what we do (technical evangelist, developer advocate, developer relations) returned more than 12,000 people and around 300 job openings. Because this profession is still new and evolving the education process remains largely self-driven. 
+Tech evangelism or developer advocacy or whatever you choose to call it is booming. A quick search on LinkedIn for three of the most popular titles for what we do (technical evangelist, developer advocate, developer relations) returned more than 12,000 people and around 300 job openings. Because this profession is still new and evolving the education process remains largely self-driven. 
 
 Luckily, we have the Evangelism Collective - a group of technical evangelists, developer advocates, and other community builders. The core of the community is a Slack channel that is a mix of equal parts camaraderie, mentorship, and shared suffering. It is a vibrant community and a great place to learn about what is happening in the field. 
 
