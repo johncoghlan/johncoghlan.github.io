@@ -32,7 +32,7 @@ If you are not a tech evangelist, you may still find some interesting recommenda
 * Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World*Class Performers by Timothy Ferriss
 * Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity by Joel Spolsky 
 
-(Note: I intentionally didn't include any links to Amazon or other online booksellers in hopes that you'll support your local indie bookstore.)
+(Note: I opted not to include links to an online bookseller in hopes that you'll support your local indie bookstore or library.)
 
 Special thanks to all who chimed in with a response: 
 * [Jason Harris](https://twitter.com/harrisja)
